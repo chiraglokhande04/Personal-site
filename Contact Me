@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Contact Chirag😊</title>
+    </head>
+
+    <body>
+        <form action="mailto-@chiraglokhande14@gmail.com" method="post">
+            <label>Your Name</label>
+            <input type="text" name="your name"><br>
+            <label>Your Image</label>
+            <input type="file"><br>
+            <label>Date</label>
+            <input type="date" name="date"><br>
+            <label>E-mail</label>
+            <input type="email" name="email"><br>
+            <label>Your Message/Suggestions</label><br>
+            <textarea type="text" rows="10" columns="30" ></textarea><br>
+            <label>All Info given above is true</label>
+            <input type="checkbox"><br>
+            <input type="submit" name="">
+        
+        </form>
+
+    
+    </body>
+</html>
